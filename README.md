@@ -6,10 +6,9 @@
 step 1: install python IDLE if not installed (you can also configure python in VS code to run this code)
 step 2: install the needed libraries by writing the following lines of code in terminal:
 </pre>
-</pre>
-<code>
+</code>
 pip install pygame
 pip install sys
 </code>
-</pre>
+
 _______________________________________________________________________________________________________________________________________________
